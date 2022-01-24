@@ -2,7 +2,7 @@ package com.example.erp.bean;
 
 import javax.persistence.*;
 import java.util.List;
-
+//hello how are you guy
 @Entity
 @Table(name="courses")
 public class Courses {
